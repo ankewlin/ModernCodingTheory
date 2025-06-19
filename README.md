@@ -5,14 +5,23 @@
 * 项目代码结构
   * ModernCodingTheory/
     ├── coding_final/                  # 项目核心代码所在目录
+    
     │   ├── compra_codings/           # 比较不同编码方案的模块的代码实现
+    
     │   ├── conv_code/                # 卷积码实现
+    
     │   ├── cyclic_code/              # 循环码实验实现
+    
     │   ├── hamming/                  # 汉明码相关实现
+    
     │   ├── linear_block/            # 线性分组码实现
+    
     │   ├── figures/                 # 绘图、结果图像
+    
     │   ├── vectorizer_figures/      # 矢量化图片
+    
     ├── README.md                    # 项目概览与使用指南
+    
     └── LICENSE                      # 项目的开源协议声明
 * 小组分工
   * 施茗杰2410880: 负责PPT制作和论文摘要板块撰写。
