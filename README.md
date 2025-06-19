@@ -4,6 +4,7 @@
 * 该项目是2025年春季同济大学研究生课程《现代编码理论》的代码部分
 * 项目代码结构
   * ModernCodingTheory/
+    
     ├── coding_final/                  # 项目核心代码所在目录
     
     │   ├── compra_codings/           # 比较不同编码方案的模块的代码实现
